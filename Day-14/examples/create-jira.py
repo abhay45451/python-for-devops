@@ -8,7 +8,7 @@ url = "https://veeramallaabhishek.atlassian.net/rest/api/3/issue"
 
 API_TOKEN = ""
 
-auth = HTTPBasicAuth("", API_TOKEN)
+auth = HTTPBasicAuth("abhaybavistale@gmail.com", API_TOKEN)
 
 headers = {
   "Accept": "application/json",
